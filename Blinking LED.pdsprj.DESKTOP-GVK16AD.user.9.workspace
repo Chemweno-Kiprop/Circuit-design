@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb00030000fffffffffffffff8000007800000041000000000000000170000077f0000040f0000000002000000078000000000000000170000077f0000040f</PLACEMENT>
+  <WINDOW module="ISIS" mode="00050a01" type="default" index="0"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="800" pid="0" y="21" flags="00000082" x="10" iid="-1" h="200">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="350" pid="1" y="41" flags="000000b2" x="30" iid="-1" h="200">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="800" pid="2" y="61" flags="000000a2" x="50" iid="-1" h="200">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="30" pid="3" y="81" flags="00000008" x="70" iid="1" h="16">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="100" pid="10" y="0" flags="0000000a" x="0" iid="1" h="30">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" pid="6" y="121" flags="0000000a" x="110" iid="1" h="32">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="16" pid="7" y="141" flags="0000000a" x="130" iid="1" h="32">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="16" pid="14" y="161" flags="80000000" x="150" iid="1" h="32">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="16" pid="4" y="181" flags="0000000a" x="170" iid="1" h="32">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="16" pid="13" y="201" flags="0000000a" x="190" iid="1" h="8">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+ <MODULE name="ARES">
+  <editor snapidx="3" snaprange="0" zoom="10" scale="10" orgmode="0" xcursor="0" snap="0" gridminor="0" flipped="0" metric="0" gridmode="2" gridmajor="0">
+   <centre y="0" x="0"/>
+   <origin y="0" x="0"/>
+   <world x1="-15240000" y2="12700000" x2="15240000" y1="-12700000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor snapidx="2" snaprange="127000" zoom="-1" scale="127" orgmode="0" xcursor="0" snap="254000" gridminor="254000" flipped="0" metric="0" gridmode="2" gridmajor="2540000">
+   <centre y="9922" x="-9922"/>
+   <origin y="0" x="0"/>
+   <world x1="-12700000" y2="8890000" x2="12700000" y1="-8890000"/>
+  </editor>
+ </MODULE>
+</WORKSPACE>
